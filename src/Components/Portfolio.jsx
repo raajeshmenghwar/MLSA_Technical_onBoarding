@@ -1,10 +1,10 @@
 /**
  * Portfolio component
  *
- * Highlights some of  your creations. These can be designs, websites,
- * open source contributions, articles you've written and more.
+ * Highlights some of  your creations. These can be projects, applications,
+ * contributions to open source, technical articles, and more.
  *
- * This is a great area for you to to continually add to and refine
+ * This is a great area for you to continually add to and refine
  * as you continue to learn and create.
  */
 
@@ -31,28 +31,52 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "PDF Merger",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Proficient in merging PDFs using Python with PyPDF2.",
+    url: "#",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Robo Speaker",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Developed a Python text-to-speech app using e-speak.",
+    url: "#",
   },
   {
-    title: "My Resume Site",
+    title: "Port Scanner",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Implemented a port scanner for open ports (50-85).",
+    url: "#",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Weather App",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Created a city weather app using API.",
+    url: "#",
+  },
+  {
+    title: "Secure Sign",
+    description:
+      "Developed a GUI-based secure login app.",
+    url: "#",
+  },
+  {
+    title: "Notepad-Clone",
+    description:
+      "Created a basic notepad application using Java.",
+    url: "#",
+  },
+  {
+    title: "Library Management System",
+    description:
+      "Built a Java-based LMS for books.",
+    url: "#",
+  },
+  {
+    title: "Music Player",
+    description:
+      "Developed a basic music player in Java with play and pause functionality.",
+    url: "#",
   },
 ];
 
